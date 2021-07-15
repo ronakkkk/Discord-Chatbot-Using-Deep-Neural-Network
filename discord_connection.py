@@ -3,7 +3,7 @@ import discord
 import random
 from chatbot import chat
 # discord token
-discord_token = 'ODQ3MDc0MDk0MzE0NTUzMzc0.YK4xOQ.IZist8t6I6Bt8KkMk35kkvAX8fM'
+discord_token = 'Discord Token ID'
 guild = 'chatbot server'
 client= discord.Client()
 
