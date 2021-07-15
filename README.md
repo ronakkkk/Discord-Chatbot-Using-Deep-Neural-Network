@@ -1,6 +1,6 @@
 # Discord-Chatbot-Using-Deep-Neural-Network
 
-Following images are the running of the discord chatbot as follows:
+Following images are the running of the discord chatbot.
 
 1. Output of the question asked
 ![1](https://user-images.githubusercontent.com/37010825/125781843-10ad7b73-bb94-404a-b701-5bcdc5e3a13d.PNG)
